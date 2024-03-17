@@ -8,6 +8,7 @@ Name Email sairamreddymedida@gmail.com sumanthkumar4322@gmail.com 99210041479@kl
 
 Problem statement 
 my project is about diet recommandation
+height should be given in cm only.
 
 About the project my project is about my project is about diet recommandation
 
